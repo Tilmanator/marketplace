@@ -1,9 +1,32 @@
-{
-  "products": [
-    {
-      "title": "Water",
-      "price": 4.5,
-      "inventory_count": 50
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Water",
+    "price": 4.5,
+    "inventory_count": 50
+  },
+  {
+    "id": 2,
+    "title": "Goose",
+    "price": 1,
+    "inventory_count": 2
+  },
+  {
+    "id": 70,
+    "title": "Moose",
+    "price": 500,
+    "inventory_count": 0
+  },
+  {
+    "id": 100,
+    "title": "Loose",
+    "price": 2.60,
+    "inventory_count": 45
+  },
+  {
+    "id": 3,
+    "title": "Mongoose",
+    "price": 3,
+    "inventory_count": 8
+  }
+]

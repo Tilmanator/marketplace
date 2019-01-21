@@ -1,6 +1,8 @@
 from flask import Flask
 
 app = Flask(__name__)
-data = {}
+products = {}
+carts = {}
+next_id = []
 
 from app import routes
