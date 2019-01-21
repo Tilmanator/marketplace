@@ -1,0 +1,9 @@
+{
+  "products": [
+    {
+      "title": "Water",
+      "price": 4.5,
+      "inventory_count": 50
+    }
+  ]
+}
